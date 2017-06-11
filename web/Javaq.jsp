@@ -70,7 +70,7 @@ input.hidden {
     }
     %>
     <br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <footer>Developed by: Dhruv Pandey & Amit Kumar Singh</footer>>
+    <footer>Developed by: Bhawana Singh</footer>>
     
     
     

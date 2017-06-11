@@ -34,4 +34,4 @@ header, footer {
     <br><br><br><form action="Cq.jsp">
         <input type="submit" value="START TEST">
         </form>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><footer>Developed by: Dhruv Pandey & Amit Kumar Singh</footer>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><footer>Developed by: Bhawana Singh</footer>

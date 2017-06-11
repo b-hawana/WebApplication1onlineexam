@@ -32,4 +32,4 @@
     
     Integer marks=(Integer)session.getAttribute("cm");
     out.print("<br><br><b>You Secured Marks= "+marks+"</b>");
-   %>>
+   %>

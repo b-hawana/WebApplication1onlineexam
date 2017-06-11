@@ -32,4 +32,4 @@ div.c{
     <br><b>CLICK ON THE IMAGE TO GIVE C TEST</b><br>
 </div>
 <br><br><br><br><br><br><br><br><br><br>
-<footer>Created by: Dhruv Pandey & Amit Kumar Singh</footer>
+<footer>Created by: Bhawana Singh</footer>

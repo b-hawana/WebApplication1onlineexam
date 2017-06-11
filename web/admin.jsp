@@ -20,4 +20,4 @@ header, footer {
 
   <input type="submit" value="Submit">
   </form>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><footer>Developed by: Dhruv Pandey & Amit Kumar Singh</footer>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><footer>Developed by:Bhawana Singh</footer>
